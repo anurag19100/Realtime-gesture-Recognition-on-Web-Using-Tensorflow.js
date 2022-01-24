@@ -1,7 +1,12 @@
 # Sign-language-translator-using-gesture-recognition
 Implemented using Tensorflow JS models such as Handpose and Fingerpose from mediapose library.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Demo
+
+https://hand-sign-detection.netlify.app/
+
+
 
 ## Available Scripts
 
